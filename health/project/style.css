@@ -1,0 +1,41 @@
+
+
+/* Basic Styling */
+/* body {
+    font-family: 'Arial', sans-serif;
+    background-color: #8cbceb;
+    color: #333;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1, h4 {
+    font-weight: 600;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+/* Form Styling */
+/* .form-group label {
+    font-weight: 600;
+}
+
+input, select {
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+} */ 
+
+/* Bootstrap Column Adjustments */
+/* @media (max-width: 768px) {
+    .card-body {
+        padding: 15px;
+    }
+
+    .col-md-4 {
+        margin-bottom: 20px;
+    }
+} */
